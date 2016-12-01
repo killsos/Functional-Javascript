@@ -9,3 +9,4 @@ function splat(fun) {
 *
 */
 
+console.log(1);
